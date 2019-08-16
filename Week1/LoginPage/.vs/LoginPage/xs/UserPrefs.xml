@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DED84541-B8FE-498C-ADF3-83888A9D6973}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoginPage.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LoginPage FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginPage/MainPage.xaml">
+    <Files>
+      <File FileName="LoginPage/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LoginPage/MainPage.xaml" Line="8" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoginPage" expanded="True">
+            <Node name="LoginPage" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LoginPage.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

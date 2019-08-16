@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LoginPage.MainPage"
+             BackgroundColor="Black">
+    <StackLayout Margin="20,35,20,20">
+        <!-- Place new controls here -->
+        <Image Source="https://www.pinclipart.com/picdir/big/275-2757479_cute-small-rainbow-clipart-free-png-download.png"
+               HeightRequest="200" />
+        <Entry x:Name="user"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
+               Placeholder="Enter Username" />
+        <Entry x:Name="password"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
+               Placeholder="Enter Password" />
+
+        <Button Text="Log in !"
+                TextColor="White"
+                Clicked="Handle_Clicked"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"
+                BackgroundColor="Blue" />
+
+    </StackLayout>
+
+</ContentPage>
