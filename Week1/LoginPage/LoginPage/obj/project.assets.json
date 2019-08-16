@@ -562,11 +562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/LoginPage.csproj",
+      "projectUniqueName": "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/LoginPage.csproj",
       "projectName": "LoginPage",
-      "projectPath": "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/LoginPage.csproj",
+      "projectPath": "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/LoginPage.csproj",
       "packagesPath": "/Users/ericaross/.nuget/packages/",
-      "outputPath": "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/obj/",
+      "outputPath": "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -17,7 +17,8 @@
         <Entry x:Name="password"
                HorizontalOptions="CenterAndExpand"
                VerticalOptions="CenterAndExpand"
-               Placeholder="Enter Password" />
+               Placeholder="Enter Password"
+               IsPassword="True" />
 
         <Button Text="Log in !"
                 TextColor="White"

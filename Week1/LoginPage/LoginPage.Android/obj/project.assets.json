@@ -2005,11 +2005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage.Android/LoginPage.Android.csproj",
+      "projectUniqueName": "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage.Android/LoginPage.Android.csproj",
       "projectName": "LoginPage.Android",
-      "projectPath": "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage.Android/LoginPage.Android.csproj",
+      "projectPath": "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage.Android/LoginPage.Android.csproj",
       "packagesPath": "/Users/ericaross/.nuget/packages/",
-      "outputPath": "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage.Android/obj/",
+      "outputPath": "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2024,8 +2024,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/LoginPage.csproj": {
-              "projectPath": "/Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/LoginPage.csproj"
+            "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/LoginPage.csproj": {
+              "projectPath": "/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/LoginPage.csproj"
             }
           }
         }

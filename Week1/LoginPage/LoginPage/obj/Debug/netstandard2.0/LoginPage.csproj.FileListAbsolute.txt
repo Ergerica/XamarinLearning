@@ -10,3 +10,15 @@
 /Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.dll
 /Users/ericaross/Documents/XamarinLearning/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.pdb
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/bin/Debug/netstandard2.0/LoginPage.deps.json
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/bin/Debug/netstandard2.0/LoginPage.dll
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/bin/Debug/netstandard2.0/LoginPage.pdb
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.csprojAssemblyReference.cache
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.csproj.CoreCompileInputs.cache
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.AssemblyInfoInputs.cache
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.AssemblyInfo.cs
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.dll
+/Users/ericaross/Documents/XamarinLearning/Week1/LoginPage/LoginPage/obj/Debug/netstandard2.0/LoginPage.pdb
